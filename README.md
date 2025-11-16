@@ -468,16 +468,6 @@ Unauthorized commercial use is prohibited.
 
 ---
 
-## Contact & Support
-
-For questions, issues, or suggestions:
-
-📧 **Email**: [your-email@iitj.ac.in]  
-🐙 **GitHub**: [github.com/yourusername/db-fragmentation-optimizer]  
-📝 **Issues**: [GitHub Issues](https://github.com/yourusername/db-fragmentation-optimizer/issues)
-
----
-
 ## Citation
 
 If you use this project in your research, please cite:
