@@ -493,7 +493,7 @@ If you use this project in your research, please cite:
   author={Shah, Pareen and Shah, Yesha and Shah, Saumya},
   year={2025},
   institution={IIT Jodhpur},
-  url={https://github.com/yourusername/db-fragmentation-optimizer}
+  url={https://github.com/PareenShah27/Automated-Fragmentation}
 }
 ```
 ---
