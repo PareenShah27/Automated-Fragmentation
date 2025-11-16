@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Usage Guide](#usage-guide)
@@ -17,11 +16,7 @@
 - [Configuration](#configuration)
 - [Advanced Features](#advanced-features)
 - [Performance](#performance)
-- [FAQ](#faq)
-- [Contributing](#contributing)
 - [Authors](#authors)
-- [License](#license)
-
 ---
 
 ## Overview
