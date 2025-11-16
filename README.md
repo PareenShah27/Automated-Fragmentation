@@ -180,7 +180,7 @@ db_fragmentation_optimizer/
 ### Run the Application
 
 ```bash
-streamlit run streamlit_app_with_patterns.py
+streamlit run streamlit_app.py
 ```
 
 This opens a browser window with the interactive dashboard.
