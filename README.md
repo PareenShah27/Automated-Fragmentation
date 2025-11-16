@@ -351,16 +351,16 @@ Edit `aggregation/weighted_voting.py`:
 
 ```python
 weights = {
-    'cost_based': 0.25,
+    'cost_based': 0.30,
     'ml_based': 0.30,
-    'evolutionary': 0.25,
+    'evolutionary': 0.20,
     'graph_based': 0.20
 }
 ```
 
 ### Adding New Schemas
 
-Edit `utils/data_loader_enhanced.py`:
+Edit `utils/data_loader.py`:
 
 ```python
 SCHEMAS = {
