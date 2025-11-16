@@ -25,9 +25,9 @@ class WeightedVotingAggregator:
         """
         if weights is None:
             weights = {
-                'cost_based': 0.25,
+                'cost_based': 0.30,
                 'ml_based': 0.30,
-                'evolutionary': 0.25,
+                'evolutionary': 0.20,
                 'graph_based': 0.20
             }
         
@@ -110,4 +110,5 @@ class WeightedVotingAggregator:
     
     def reset(self) -> None:
         """Clear all proposals."""
+
         self.proposals = []
